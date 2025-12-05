@@ -68,12 +68,12 @@ JWT_SECRET=your_jwt_secret
 GEOAPIFY_API_KEY=your_api_key
 ```
 
-###🧩 Future Enhancements
+## 🧩 Future Enhancements
 
--WebSocket-based real-time ride updates
--Payment integration
--Captain dashboard & analytics
--Trip history & reports
--Push notifications
+- WebSocket-based real-time ride updates
+- Payment integration
+- Captain dashboard & analytics
+- Trip history & reports
+- Push notifications
 
 ### ScreenShot
